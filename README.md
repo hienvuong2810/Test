@@ -1,4 +1,4 @@
-
+https://eu-west-1.aws.data.mongodb-api.com/app/application-2-febnp/endpoint/sendSlackNotification?channel=
 ABEL GOMEZ	AGOMEZ@BRANDONHYUNDAI.COM	813-768-3766	813-768-3766
 JUAN  MORANTES	JMORANTES@BRANDONHYUNDAI.COM		301-467-8476
 JOE DIDIO	JDIDIO@BRANDONHYUNDAI.COM		813-424-0377
